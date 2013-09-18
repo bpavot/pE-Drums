@@ -1,1 +1,10 @@
+Fork of Piesi/pE-Drums for printing on Makerbot
+
+On MakerWare all face normals should be properly oriented and solid must be closed.
+The makerbot flatbed is too small for the shell so I added a split version shell-half.
+Sketchup files added for easier editing.
+
+--
+
 started to build an 3d-printed e-drum set...
+
